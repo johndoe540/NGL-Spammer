@@ -1,8 +1,9 @@
 jamyjamsnin
-name/shipme
-name/yourcrush
-name/3words
-name/tbh
-name/dealbreaker
+jamyjamsnin/shipme
+jamyjamanin/yourcrush
+jamyjamsnin/3words
+jamyjamsnin/tbh
+jamyjamsnin/dealbreaker
 
-name/rizzme
+jamyjamsnin/rizzme
+
